@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # vxargs2
-# kroemm01
+# vxargs ncurses wrapper.
+# Marek Kroemeke, GPL 2
 """
 vxargs2 - ssh to multiple nodes in a cheeky way.
 
